@@ -13,4 +13,4 @@ Hello! I'm a Systems Engineering student currently in my 8th semester. My primar
 
 <img alt="streak" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=retrofiyer&theme=algolia&date_format=M%20j%5B%2C%20Y%5D"/>
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=retrofiyer&theme=algolia&show_icons=true"/>
-<img alt="top languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=retrofiyer&layout=compact&theme=algolia"/>
+<img alt="top languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=retrofiyer&layout=compact&theme=algolia&hide=cython,python,fortran"/>
