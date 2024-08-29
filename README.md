@@ -1,6 +1,9 @@
 <div align="center">
   <h1 align="center"> Hi, I'm Sebastian 👋 </h1>
 </div>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 ## About me
 
@@ -8,6 +11,6 @@ Hello! I'm a Systems Engineering student currently in my 8th semester. My primar
 
 ## Github Analytics
 
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Retrofiyer"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Retrofiyer&layout=compact)](https://github.com/Retrofiyer/github-readme-stats&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Retrofiyer&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Retrofiyer&theme=algolia&show_icons=true"/>
+<img alt="top languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retrofiyer&layout=compact&theme=algolia"/>
